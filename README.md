@@ -40,8 +40,6 @@ GreenBasket is committed to providing fresh and affordable groceries right at yo
 
 ## Connect With Us
 If you have any queries setting up the folder or not running then feel free to contact me on:
-- LinkedIn: https://www.linkedin.com/in/priangshu-mukherjee-609142239/
-- Facebook: https://www.facebook.com/profile.php?id=61556779768488&mibextid=ZbWKwL
-- Email: priangshu18@gmail.com
+- Email: satyam.bcastudent23.27819@cimage.in
 
 Feel free to explore, shop, and contribute! Together, let's make grocery shopping a breeze! 🌐💻🍞
