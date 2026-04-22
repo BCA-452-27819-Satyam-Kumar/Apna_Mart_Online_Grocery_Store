@@ -1,6 +1,6 @@
-# GreenBasket
+# Apna Mart Online grocery store
 
-Welcome to GreenBasket - your one-stop destination for a website to sell grocery items 🛒🌽🍅
+Welcome to Apna mart Online grocery store - your one-stop destination for a website to sell grocery items 🛒🌽🍅
 
 ## Table of Contents
 - [About Us](#about)
